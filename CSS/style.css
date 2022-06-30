@@ -1,0 +1,15 @@
+div {
+  width: 80%;
+  margin: auto;
+  height: auto;
+}
+
+div h1 {
+  text-align: center;
+  margin-top: 30%;
+  font-size: 100px;
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+}
+/*# sourceMappingURL=style.css.map */
